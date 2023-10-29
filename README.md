@@ -1,3 +1,5 @@
+``⚠️`` Installing any script could get your account banned.
+
 # Geoguessr-region-example-script
 Rudimentary examples of regions for region guessing in Geoguessr.
 
